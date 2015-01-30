@@ -7,4 +7,6 @@ See below for details.
 The Platform Authors and Associates
 
 ### Support or Contact
-Need to contact us about an exciting collaborative opportunity? Send us a mail to: platform-project@entilda.com
+Need to contact us about an exciting collaborative opportunity? 
+
+Send us a mail to: platform-project@entilda.com
