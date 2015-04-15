@@ -4,7 +4,7 @@ If you would like us to join you in an exciting collaborative development projec
 See below for details.
 
 ### Documentation
-To find out more about the Platform Project and how to get started using [Platform](https://github.com/platform-project/platform), see documentation.
+To find out more about the Platform Project and how to get started using [Platform](http://platform-project.github.io/platform), read through our [README](https://github.com/platform-project/platform/wiki/README) documentation.
 
 ### Authors and Contributors
 The Platform Authors and Associates
